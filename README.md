@@ -11,3 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I listen to music a lot while i work.
 
+<img src="https://github-readme-stats.vercel.app/api?username=ankitmishra1201&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
