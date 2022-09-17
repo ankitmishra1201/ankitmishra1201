@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Praveen Varma <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120">
+         width="45" />,Ankit Mishra <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120">
 </div></h1> 
-<h3 align="center">A passionate CS undergrad from India.</h3>
+<h3 align="center">CCE Pre Final Year, Manipal Institute of Technology.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 
