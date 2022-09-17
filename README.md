@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />,Ankit Mishra <div><img align="center" src="https://komarev.com/ghpvc/?username=ankitmishra1201&color=brightgreen&label=Profile+Views" height="20" width="120">
+         width="45" />,I'm Ankit Mishra <div><img align="center" src="https://komarev.com/ghpvc/?username=ankitmishra1201&color=brightgreen&label=Profile+Views" height="20" width="120">
 </div></h1> 
 <h3 align="center">CCE Pre Final Year, Manipal Institute of Technology.</h3>
 
