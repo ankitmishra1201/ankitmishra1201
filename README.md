@@ -12,7 +12,7 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=ankitmishra1201&color=green)
  -->
-- 🔭 I’m currently working on  **App Development** , **Web Development[MERN Stack]** , ****.
+- 🔭 I’m currently working on  **App Development** , **Web Development[MERN Stack]** , **Data Analysis**.
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
