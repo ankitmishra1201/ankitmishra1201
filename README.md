@@ -12,13 +12,13 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=ankitmishra1201&color=green)
  -->
-- 🔭 I’m currently working on  **Flutter** , **MERN Stack** , **DS and Algos**.
+- 🔭 I’m currently working on  **App Development** , **Web Development[MERN Stack]** , ****.
 
-- 🌱 I’m currently learning **C++, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👯 I’m looking to collaborate on **Flutter and MERN Dev**
+- 👯 I’m looking to collaborate on **Flutter, React and NodeJS project**
 
-- ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
+
 
 
 
