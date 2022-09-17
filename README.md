@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />,Ankit Mishra <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120">
+         width="45" />,Ankit Mishra <div><img align="center" src="https://komarev.com/ghpvc/?username=ankitmishra1201&color=brightgreen&label=Profile+Views" height="20" width="120">
 </div></h1> 
 <h3 align="center">CCE Pre Final Year, Manipal Institute of Technology.</h3>
 
@@ -31,7 +31,7 @@
 
 <div>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitmishra1201&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="geekyprawins" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitmishra1201&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="ankitmishra1201" />
  </p>
 </div>
 
