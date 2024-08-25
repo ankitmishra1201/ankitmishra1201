@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CCNA GENAI**
 
-- 💬 Ask me about **Flutter, Swift, ReactJS, NodeJS**
+- 💬 Ask me about **Flutter, Swift, ReactJS, NodeJS, DJANGO, CLOUD SECURITY**
 
 - 📫 How to reach me **workwithankit12@gmail.com**
 
